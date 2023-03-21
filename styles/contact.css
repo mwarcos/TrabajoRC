@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contact-title {
+    background-color: #e7002e;
+    color: #fff;
+    padding: 2rem 5rem 0rem 5rem; ;
+}
+
+.contact-title p {
+    color: #fff;
+    text-align: center;
+}
+.contact-title h3 {
+    text-align: center;
+}
+.submit-btn {
+    padding: 5px 20px;
+    margin: 1rem 0rem 3rem 0rem;
+    border: 2px solid #e7002e;
+    border-radius: 25px;
+    background-color: #fff;
+    color: #e7002e;
+    transition: all 200ms ease;
+}
+.submit-btn:hover {
+    background-color: #e7002e;
+    color: #fff;
+    border: 2px solid#fff;
+}
